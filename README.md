@@ -1,5 +1,5 @@
 # Neural-Networks-Digit-Classification
 This was an asssignment from my Machine Learning in Python course
-Implemented a Neural Network to classify binary digits using TensorFlow
+Implemented certain functions for a Neural Network to classify binary digits using TensorFlow
 Ran through an application called Jupyter Notebook
 
